@@ -14,7 +14,7 @@ plotly
 ```
 1. Download repo:
 ```
-https://github.com/Oysiyl/Big-Mac-Price.git
+wget https://github.com/Oysiyl/Big-Mac-Price.git
 ```
 2. Go to folder:
 ```
@@ -25,7 +25,6 @@ cd Big-Mac-Price
 pip3 -r requirements.txt
 ```
 ## How is it used? 
-Once it's up and running provide some very descriptive examples of usage.
 After that you can simply run `bigmac.py` from your favorite IDE or terminal:
 ```
 pip3 bigmac.py
