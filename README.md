@@ -1,1 +1,0 @@
-Big Mac Price
