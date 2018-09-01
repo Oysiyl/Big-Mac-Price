@@ -1,6 +1,8 @@
 ## What does project do? 
 In this project you can created a interactive plot with plotly package.
-https://github.com/Oysiyl/Big-Mac-Price/plot.gif
+
+![Plot](https://thumbs.gfycat.com/GrotesqueZigzagBlackpanther-size_restricted.gif)
+
 Plot based on dataset with Big Mac Price through the years. Dataset available to review and download [here](https://data.world/) or check `Big Mac Index.csv` in repo. 
 ## How is it set up? 
 To run this repo you should have:
@@ -34,3 +36,4 @@ Tested on Linux OS `Ubuntu 18.04` with `Python 3.6.5`
 
 ## License information
 This project have not any license now
+
