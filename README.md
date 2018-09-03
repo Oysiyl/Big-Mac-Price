@@ -14,7 +14,7 @@ plotly
 ```
 1. Download repo:
 ```
-wget https://github.com/Oysiyl/Big-Mac-Price.git
+git clone https://github.com/Oysiyl/Big-Mac-Price.git
 ```
 2. Go to folder:
 ```
@@ -22,14 +22,10 @@ cd Big-Mac-Price
 ```
 3. Install dependencies:
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ## How is it used? 
-After that you can simply run `bigmac.py` from your favorite IDE or terminal:
-```
-pip3 bigmac.py
-```
-Thats create a newest version of `BigMac.html` in scripts folder. For now you can open this file
+After that you can simply run `bigmac.py` from your favorite IDE. Thats create a newest version of `BigMac.html` in scripts folder.
 ## Compatible 
 Tested on Linux OS `Ubuntu 18.04` with `Python 3.6.5`
 
